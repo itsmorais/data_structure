@@ -1,4 +1,4 @@
-import { alfabeto } from "./p4";
+import { alfabeto } from "./p4_mic";
 
 // P.1.6
 const compararPalavras2 = (palavra1: string, palavra2: string): void => {

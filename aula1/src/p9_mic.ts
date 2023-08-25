@@ -1,5 +1,5 @@
 // P.1.9
-console.log("MULTIPLOS DE 3 USANDO WHILE \n");
+console.log("MULTIPLOS DE 3 USANDO WHILE DECRESCENTE \n");
 let contador = 3;
 while (contador <= 100) {
     if (contador % 3 == 0) {

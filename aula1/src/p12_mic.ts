@@ -1,4 +1,4 @@
-import compararNumerosIfElse from "./p11";
+import compararNumerosIfElse from "./p11_mic";
 
 console.log("\n Chamando função no arquivo p12.ts!")
 compararNumerosIfElse(15,12);
