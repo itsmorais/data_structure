@@ -8,7 +8,7 @@ let meuJson = {
     "numero": 0,
     "nome": "Michael"
 };
-JSON.stringify(meuJson)
+// JSON.stringify(meuJson)
 let meuArray: number[] = [10, 22, 2.55];
 
 console.log("a)", typeof numero);
