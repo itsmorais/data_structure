@@ -5,17 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "p21": "ts-node ./src/p.2.1_mic",
-    "p22": "ts-node ./src/p.2.2_mic",
-    "p23": "ts-node ./src/p.2.3_mic",
-    "p24": "ts-node ./src/p.2.4_mic",
-    "p25": "ts-node ./src/p.2.5_mic",
-    "p26": "ts-node ./src/p.2.6_mic",
-    "p27": "ts-node ./src/p.2.7_mic",
-    "p28": "ts-node ./src/p.2.8_mic",
-    "p29": "ts-node ./src/p.2.9_mic",
-    "p210": "ts-node ./src/p.2.10_mic"
-
+    "search": "ts-node ./src/search_view_exemplo"
+   
 
   },
   "keywords": [],

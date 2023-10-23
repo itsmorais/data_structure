@@ -30,6 +30,7 @@ class Fatorial {
     }
 
 }
+ 
 
 let fatorial = 20
 let fat = new Fatorial();

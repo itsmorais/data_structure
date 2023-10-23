@@ -64,3 +64,15 @@ Busca binária = ?
     comparo o valor do meio com o elemento:
     como 22 == 22 concluo minha busca.
 
+### Análise geral
+ A cada rodada de busca o tamanho do vetor é reduzido a metade, ou seja
+ n, n/2, n/4, ..., n/2^k 
+ Desta forma a n° de operações é proporcional a O(log2n) log de n na base 2
+
+
+ ** O = Ordem espacial **
+
+ # Busca em cadeia de caracteres
+ " Algoritmos de correspondência de cadeias"
+
+### Algoritmo trivial 

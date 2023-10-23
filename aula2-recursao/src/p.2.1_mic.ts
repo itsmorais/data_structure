@@ -10,10 +10,8 @@ function menor_recursivo(vetor: number[]): number {
     if (vetor[0] >= menor_recursivo(vetor.slice(1))) {
         return menor_recursivo(vetor.slice(1))
     }
-    else {
-        return vetor[0];
-    }
 
+    return vetor[0]
 
 
 
