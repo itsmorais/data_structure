@@ -31,16 +31,4 @@ function sort_Array() {
     fs.writeFileSync('./michael_ord.txt', sorted_array[0].join(' '));
 
 }
-
 sort_Array()
-
-
-
-
-
-
-
-
-
-
-
